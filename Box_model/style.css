@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+.wrapper {
+    /* background-color: rgba(7, 7, 7, 0.7); */
+    background: linear-gradient(#272710, #303035);
+}
+h1 {
+    text-align: center;
+}
+
+.header {
+    max-width: 100%;
+    min-height: 100px;
+    border: 2px solid #000;
+    background: linear-gradient(135deg, rgba(49, 37, 14, 0.295) 60%, #00ffff);
+}
+.header p {
+    margin-top: 70px;
+    font-size: 22px;
+}
+
+.navigation p {
+    margin-top: 0px;
+}
+.navigation {
+    max-width:inherit;
+    min-height: 30px;
+    border: 2px solid #000;
+    margin-top: 100px;
+    background-color: rgba(133, 133, 133, 0.2);
+}
+
+.main {
+    display: inline-block;
+    width: 700px;
+    min-height: 500px;
+    border: 2px solid #000;
+    margin: 15px 0px 15px 50px;
+    background-color: rgba(0, 255, 255, 0.7);
+}
+.main p {
+    margin-top: 200px;
+}
+
+.sidebar {
+    display: inline-block;
+    width: 350px;
+    min-height: 500px;
+    border: 2px solid #000;
+    margin-left: 10px;
+    background-color: rgba(0, 255, 255, 0.5);
+}
+
+.sidebar p {
+    margin-top: 200px;
+}
+.footer {
+    max-width: 100%;
+    min-height: 120px;
+    border: 2px solid #000;
+    background: linear-gradient(135deg, rgba(49, 37, 14, 0.295) 60%, #00ffff);
+}
+
+.footer p {
+    margin-top: 50px;
+}
