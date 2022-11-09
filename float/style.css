@@ -30,6 +30,16 @@ padding-top: 22px;
 text-align: center;
 }
 
+.Logo_title {
+    float: right;
+    margin-top: -48px;
+    margin-right: 350px;
+    font-size: 25px;
+    color: rgba(211, 142, 140, 0.877);
+    text-shadow: 1px 1px 1px #000;
+    line-height: 1.5rem;
+}
+
 .menu {
     background: rgba(138, 9, 5, 0.719);
     height: 55px;
