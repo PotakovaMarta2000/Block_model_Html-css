@@ -23,11 +23,8 @@
     border-radius: 50px;
     margin-top: 15px;
     margin-left: 25px;
-}
-
-.logo p {
-padding-top: 22px;
-text-align: center;
+    padding-top: 28px;
+    text-align: center;
 }
 
 h2 {
@@ -37,7 +34,6 @@ h2 {
     font-size: 25px;
     color: rgba(211, 142, 140, 0.877);
     text-shadow: 1px 1px 1px #000;
-    line-height: 1.5rem;
 }
 
 .menu {
